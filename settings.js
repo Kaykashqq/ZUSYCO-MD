@@ -32,7 +32,7 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "private",
+  WORK_TYPE : "public",
   WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𝐓𝐫𝐨𝐮𝐛𝐥𝐞 𝐁𝐨𝐭😧',
