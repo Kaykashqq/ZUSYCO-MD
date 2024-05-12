@@ -16,8 +16,8 @@ Creator : @iamxda_joker , @Antisocial Humidity
 */
 
 module.exports = {
-  OWNER_NUMBER: "233200851291",
-  SUDO_NUMBERS : "233200851291,‪2347069763306‬,233505928956",
+  OWNER_NUMBER: "2348022159244",
+  SUDO_NUMBERS : "2348022159244,2349030610579",
   OWNER_NAME: "𝐓𝐫𝐨𝐮𝐛𝐥𝐞 𝐌𝐚𝐤𝐞𝐫",
   BOT_NAME : "𝐓𝐫𝐨𝐮𝐛𝐥𝐞 𝐁𝐨𝐭",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -41,7 +41,7 @@ module.exports = {
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 500,
   MOROCCO_NUMBERS : {
         BLOCK : true,
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
-  OWNER_REACT : ' ',
+  OWNER_REACT : '🔥',
   AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
@@ -72,7 +72,7 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : true,
+  AUTO_STICKER : false,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
